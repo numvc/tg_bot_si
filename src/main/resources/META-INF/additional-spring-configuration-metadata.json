@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.gcp.sql.instance-connection-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.gcp.sql.instance-connection-name."
+  }
+] }
